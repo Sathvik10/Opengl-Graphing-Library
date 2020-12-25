@@ -1,0 +1,6 @@
+﻿  LineGraph.cpp
+c:\users\sathvik\desktop\7th sem\computer graphics\cg_project\cg_project\linegraph.cpp(1): fatal error C1083: Cannot open include file: 'Gl/glut.h': No such file or directory
+  main.cpp
+c:\users\sathvik\desktop\7th sem\computer graphics\cg_project\cg_project\main.cpp(1): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  utility.cpp
+c:\users\sathvik\desktop\7th sem\computer graphics\cg_project\cg_project\utility.cpp(1): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory

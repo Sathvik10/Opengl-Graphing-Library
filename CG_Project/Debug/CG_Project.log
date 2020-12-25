@@ -1,0 +1,4 @@
+﻿  LabDemo.cpp
+c:\users\sathvik\desktop\7th sem\computer graphics\cg_project\cg_project\labdemo.cpp(256): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sathvik\desktop\7th sem\computer graphics\cg_project\cg_project\labdemo.cpp(525): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  CG_Project.vcxproj -> C:\Users\sathvik\Desktop\7th sem\Computer Graphics\CG_Project\Debug\CG_Project.exe
