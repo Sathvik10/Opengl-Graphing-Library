@@ -1,6 +1,0 @@
-.vs
-Debug
-Release
-freeglut.dll
-glew32.dll
-glut32.dll
